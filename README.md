@@ -1,10 +1,25 @@
 <h1>О себе</h1>
 
-<p>Увлекся программированием с 18 лет <b>(самоучка)</b>, но глубокое и интенсивное изучение начал в 2018г. совместно с первой работой в IT, хорошо понимаю работу модели <b>MVC</b>, принципов <b>DRY</b>, <b>KISS</b> и <b>YAGNI</b>, отлично ориентируюсь в <b>ООП</b> и его парадигмах. В работе стараюсь придерживается принципов <b>SOLID</b> (по крайней мере первых 2-ух). На достаточно высоком уровне знаю архитектуру <b>CMS</b> движков <b>OpenCart</b> и <b>Wordpress</b>. Основываясь на имеющихся знаниях, пробовал работать <b>в образовательных целях</b> на фреймворках <b>React</b>, <b>Yii 2</b> и <b>Laravel</b>.</p>
+<p>Увлекся программированием в 18 лет <b>(самоучка)</b>, но глубокое и интенсивное изучение начал в 2018 г. совместно с первой работой в IT, хорошо понимаю работу модели <b>MVC</b>, принципы <b>DRY</b>, <b>KISS</b> и <b>YAGNI</b>, отлично ориентируюсь в <b>ООП</b> и его парадигмах (<b>наследование, инкапсуляция, полиморфизм, абстракция</b>), неплохо разбираюсь в работе:</p>
 
-<br/>
+<ul>
+  <li>Асинхронного кода: <b>Promise, Async, Await</b></li>
+  <li>В особенностях работы: <b>hoisting</b></li>
+  <li>Контекста <b>this / bind / call / apply</b></li>
+  <li>Приведение типов: <b>'0' == 0</b></li>
+  <li>Строгое сравнение: <b>===</b></li>
+  <li>Обработка исключений: <b>try...catch</b></li>
+  <li>Области видимости: <b>var, let, const</b></li>
+  <li>Деструктурирующее присваивание: <b>{ a, b } = obj</b></li>
+  <li>Замыкание</li>
+  <li>Операторов <b>spread</b>: [a, b, ...arr] и <b>rest</b>: func(a, b, ...args)</li>
+  <li>Работа с массивами: <b>map / filter / reduce / find / findIndex / indexOf / push / pop / shift / unshift / slice / splice</b> и др.</li>
+  <li>Структура данных: <b>очередь</b> и <b>стек</b></li>
+  <li>Работа с объектами: <b>for ... in ... /for ... of .../ Object.values / Object.keys / Object.entries / Object.assign</b> и пр.</li>
+  <li>Callback функциями</li>
+</ul>
 
-<p><b>Детальное портфолио:</b> <a href="https://drive.google.com/file/d/1GZ4cdVmMCtRQDObL6Yav0OXqzWM_ww4T/view?usp=share_link">смотреть</a></p>
+<p>В работе стараюсь придерживаться принципов <b>SOLID</b> (по крайней мере первых 2-ух). На достаточно высоком уровне знаю архитектуру <b>CMS</b> движков <b>OpenCart</b> и <b>Wordpress</b>. Основываясь на имеющихся знаниях, пробовал работать <b>в образовательных целях</b> на фреймворках <b>React</b> (имею представление о хуках, пропсах, функциональных/классовых компонентах), <b>Yii 2</b> и <b>Laravel</b> (имею представление о Миграциях и Artisan), как следствие активно использую пакетные менеджеры: <b>npm</b> и <b>composer</b></p>
 
 <br/>
 
@@ -13,41 +28,45 @@
 <p>Основной используемый стек:</p>
 
 <ul>
-  <li>Backend</li>
+  <li><b>Backend</b></li>
   <ul>
-    <li>php</li>
-    <li>curl</li>
-    <li>MySql</li>
-    <li>sql</li>
+    <li>PHP</li>
+    <li>Curl</li>
+    <li>Sql</li>
     <li>Rest API</li>
-    <li>express.js</li>
+    <li>Express.js</li>
   </ul>
 
-  <li>Frontend</li>
+  <li><b>Frontend</b></li>
   <ul>
-    <li>js</li>
+    <li>JavaScript</li>
     <li>JQuery</li>
     <li>React.js</li>
     <li>TypeScript</li>
     <li>Html</li>
     <li>Css</li>
+    <li>Promise/Async/Await/Try/Catch</li>
+    <li>Ajax/Fetch</li>
+    <li>Библиотеки: SlickSlider/OwlCarousel/MagnificPopup/Select2/Fancybox/DateTimePicker</li>
   </ul>
 
-  <li>Инструменты для разработки</li>
+  <li><b>Инструменты для разработки</b></li>
   <ul>
     <li>Node.js</li>
-    <li>npm</li>
+    <li>Npm</li>
     <li>Gulp</li>
     <li>Scss</li>
     <li>Бэм</li>
+    <li>Postman</li>
     <li>Git</li>
-    <li>nodemon</li>
+    <li>Nodemon</li>
     <li>IDE: visual studio code</li>
   </ul>
 
-  <li>Прочее</li>
+  <li><b>Прочее</b></li>
   <ul>
-    <li>xml/json</li>
+    <li>Xml/Json</li>
+    <li>VM VirtualBox</li>
     <li>Linux: Debian, Ubuntu</li>
     <li>PowerShell</li>
     <li>Bash</li>
@@ -58,7 +77,7 @@
     <li>Adobe After Effect</li>
     <li>Adobe Illustrator</li>
     <li>FileZilla</li>
-    <li>Open Server Panel</li>
+    <li>Open Server</li>
   </ul>
 </ul>
 
@@ -80,9 +99,9 @@
 
 <p><b>Проект:</b> Telegram Bot - учебный проект для изучения основ работы с Телеграм-Ботом, его создание и использование основных функций</p>
 
-<p><sup>1</sup> <b>Ссылка на бота:</b> <a href="https://t.me/@my301222bot">смотреть</a></p>
+<p><sup>*</sup> <b>Ссылка на бота:</b> <a href="https://t.me/@my301222bot">смотреть</a></p>
 
-<p><sup>1</sup> - бот базируется на локальном сервере, и не всегда запущен для демонстрации, поэтому если бот не отвечает, значит он выключен</p>
+<p><sup>*</sup> - бот базируется на бесплатном хостинге, где в случае длительного бездействия отключается и возобновляет работу только спустя 2-3 минут после получения нового сообщения, после чего работате в штатном режиме до следующего длительного бездействия</p>
 
 <p><b>Репозиторий:</b> <a href="https://github.com/Neimisis/telegram_bot">смотреть</a></p>
 
@@ -99,8 +118,8 @@
 <h2>OpenCart</h2>
 
 <p><b>Проект:</b> Единичный пример глобальной работы над шаблоном и рядом модулей для расширения функционала движка</p>
-<p><b><sup>2</sup> Демонстрационный сайт:</b> <a href="http://y90893lf.beget.tech/">смотреть</a></p>
-<p><sup>2</sup> - может содержать ограничения в работе в связи с бесплатным тарифом, например, невозможность отправки писем после совершения заказа или регистрации нового аккаунта</p>
+<p><b><sup>*</sup> Демонстрационный сайт:</b> <a href="http://y90893lf.beget.tech/">смотреть</a></p>
+<p><sup>*</sup> - может содержать ограничения в работе в связи с бесплатным тарифом, например, невозможность отправки писем после совершения заказа или регистрации нового аккаунта</p>
 <p><b>Репозиторий:</b> частный, т.к. используется в коммерческих целях.</p>
 
 <br/>
@@ -221,17 +240,16 @@
 
 <h2>SoloLearn</h2>
 
-<img width="275" alt="C#" src="https://user-images.githubusercontent.com/95026478/210281789-a6c0bde9-e53c-4853-add8-938cfc24be7c.jpg" /> <img width="275" alt="Css" src="https://user-images.githubusercontent.com/95026478/210281819-1ecb988d-b6ad-4f78-9c77-3a65a849a3fd.jpg" /> <img width="275" alt="Html" src="https://user-images.githubusercontent.com/95026478/210281820-1e30381a-aa70-45a2-9e89-c09469e80c97.jpg" /> <img width="275" alt="Java" src="https://user-images.githubusercontent.com/95026478/210281821-65748da2-7c94-4539-92fe-f12391aad318.jpg" /> <img width="275" alt="JavaScript" src="https://user-images.githubusercontent.com/95026478/210281822-c59f480e-30d3-4d7a-a004-be9ef8c0e818.jpg" /> <img width="275" alt="JQuery" src="https://user-images.githubusercontent.com/95026478/210281823-dcb4f324-dded-4cc8-a8bc-843a69974dbd.jpg" /> <img width="275" alt="PHP" src="https://user-images.githubusercontent.com/95026478/210281824-c7513e84-ad40-4550-8a52-97fd77053698.jpg" /> <img width="275" alt="Python Core" src="https://user-images.githubusercontent.com/95026478/210281825-e365a025-ae10-4efe-b1da-f59a19b4ea5a.jpg" /> <img width="275" alt="Responsive Web Design" src="https://user-images.githubusercontent.com/95026478/210281826-a6564ec2-ad3d-4fd6-8f29-91d9a92f4f1c.jpg" /> <img width="275" alt="Sql" src="https://user-images.githubusercontent.com/95026478/210281827-c2ab99e4-ffb3-4186-bceb-f97320cd4a46.jpg" />
+<img width="270" alt="C#" src="https://user-images.githubusercontent.com/95026478/210281789-a6c0bde9-e53c-4853-add8-938cfc24be7c.jpg" /> <img width="270" alt="Css" src="https://user-images.githubusercontent.com/95026478/210281819-1ecb988d-b6ad-4f78-9c77-3a65a849a3fd.jpg" /> <img width="270" alt="Html" src="https://user-images.githubusercontent.com/95026478/210281820-1e30381a-aa70-45a2-9e89-c09469e80c97.jpg" /> <img width="270" alt="Java" src="https://user-images.githubusercontent.com/95026478/210281821-65748da2-7c94-4539-92fe-f12391aad318.jpg" /> <img width="270" alt="JavaScript" src="https://user-images.githubusercontent.com/95026478/210281822-c59f480e-30d3-4d7a-a004-be9ef8c0e818.jpg" /> <img width="270" alt="JQuery" src="https://user-images.githubusercontent.com/95026478/210281823-dcb4f324-dded-4cc8-a8bc-843a69974dbd.jpg" /> <img width="270" alt="PHP" src="https://user-images.githubusercontent.com/95026478/210281824-c7513e84-ad40-4550-8a52-97fd77053698.jpg" /> <img width="270" alt="Python Core" src="https://user-images.githubusercontent.com/95026478/210281825-e365a025-ae10-4efe-b1da-f59a19b4ea5a.jpg" /> <img width="270" alt="Responsive Web Design" src="https://user-images.githubusercontent.com/95026478/210281826-a6564ec2-ad3d-4fd6-8f29-91d9a92f4f1c.jpg" /> <img width="270" alt="Sql" src="https://user-images.githubusercontent.com/95026478/210281827-c2ab99e4-ffb3-4186-bceb-f97320cd4a46.jpg" />
 
 <h2>GeekBrains</h2>
 
-<img width="275" alt="JavaScript  Beginner level" src="https://user-images.githubusercontent.com/95026478/210281867-41bac30c-7cf7-461f-9950-5f840e5b345b.png" /> <img width="275" alt="JavaScript  Intermediate level" src="https://user-images.githubusercontent.com/95026478/210281868-370b545d-0d97-42c4-abdc-cf75759f7468.png" /> <img width="275" alt="Photoshop  Beginner" src="https://user-images.githubusercontent.com/95026478/210281869-92d076f4-d8fa-470a-9d94-95c2e34a27fb.png" /> <img width="275" alt="PHP  Beginner" src="https://user-images.githubusercontent.com/95026478/210281870-06546597-c7fe-4f46-b19e-2f41f8d171a4.png" /> <img width="275" alt="PHP  Intermediate" src="https://user-images.githubusercontent.com/95026478/210281874-4d127715-6c9f-49c4-a66c-570ea5a7d958.png" /> <img width="275" alt="PHP  Level 1" src="https://user-images.githubusercontent.com/95026478/210281875-14f9e31a-594c-4471-b108-0829f6740382.png" /> <img width="275" alt="Web Design  Beginner" src="https://user-images.githubusercontent.com/95026478/210281876-2b73d8ad-ac14-4ed6-82e6-14c06a86349b.png" />
+<img width="270" alt="JavaScript  Beginner level" src="https://user-images.githubusercontent.com/95026478/210281867-41bac30c-7cf7-461f-9950-5f840e5b345b.png" /> <img width="270" alt="JavaScript  Intermediate level" src="https://user-images.githubusercontent.com/95026478/210281868-370b545d-0d97-42c4-abdc-cf75759f7468.png" /> <img width="270" alt="Photoshop  Beginner" src="https://user-images.githubusercontent.com/95026478/210281869-92d076f4-d8fa-470a-9d94-95c2e34a27fb.png" /> <img width="270" alt="PHP  Beginner" src="https://user-images.githubusercontent.com/95026478/210281870-06546597-c7fe-4f46-b19e-2f41f8d171a4.png" /> <img width="270" alt="PHP  Intermediate" src="https://user-images.githubusercontent.com/95026478/210281874-4d127715-6c9f-49c4-a66c-570ea5a7d958.png" /> <img width="270" alt="PHP  Level 1" src="https://user-images.githubusercontent.com/95026478/210281875-14f9e31a-594c-4471-b108-0829f6740382.png" /> <img width="270" alt="Web Design  Beginner" src="https://user-images.githubusercontent.com/95026478/210281876-2b73d8ad-ac14-4ed6-82e6-14c06a86349b.png" />
 
-<br/>
+<h1>Ссылки</h1>
 
-<h1>Контакты</h1>
-
-[ВКонтакте](https://vk.com/khodasevich_anton_eduardovich)  
-[Gmail](mailto:khodasevich.anton.eduardovich@gmail.com)  
-[WhatsApp](https://api.whatsapp.com/send?phone=79045799910)  
-[Telegram](https://t.me/@Anton_Khodasevich")
+<p><a href="https://vk.com/khodasevich_anton_eduardovich">ВКонтакте</a></p>
+<p><a href="mailto:khodasevich.anton.eduardovich@gmail.com">Gmail</a></p>
+<p><a href="https://api.whatsapp.com/send?phone=79045799910">WhatsApp</a></p>
+<p><a href="https://t.me/@Anton_Khodasevich">Telegram</a></p>
+<p><a href="https://www.codewars.com/users/Neimisis/completed">CodeWars</a></p>
